@@ -8,7 +8,7 @@ Development of game physics engine using C++ with the help of [Game Physics Engi
 
 ## Getting started:
 * You guessed it,
-* Start and finish with [Game Physics Engine Development (https://www.goodreads.com/book/show/1501484.Game_Physics_Engine_Development_With_CDROM_) book by Ian Millington.
+* Start and finish with [Game Physics Engine Development](https://www.goodreads.com/book/show/1501484.Game_Physics_Engine_Development_With_CDROM_) book by Ian Millington.
 * [Accompanying source code for this book on github](https://github.com/idmillington/cyclone-physics).
 
 ### Have Fun!!!
