@@ -10,6 +10,8 @@ Development of game physics engine using C++ with the help of [Game Physics Engi
 * Photorealistic computer graphics is ubiquitous today, with applications that include entertainment—notably, movies and video games; product design; and architecture. Donald Knuth wrote “This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize.” Read about the book [Physically Based Rendering](http://www.pbr-book.org/), which will link you to the contents of the book to [Physically Based Rendering:Contents](http://www.pbr-book.org/3ed-2018/contents.html).
 And more fun - here is the [source code used by the book](https://github.com/mmp/pbrt-v3).
 
+### [Noteworthy open source libraries for visual computing](https://github.com/roshanpoudyal/Visual-Computing-Markerless-Motion-Pose-Face-detection-tracking-and-3D-reconstruction#noteworthy-open-source-libraries-for-visual-computing).
+
 ## Getting started:
 * You guessed it,
 * Start and finish with [Game Physics Engine Development](https://www.goodreads.com/book/show/1501484.Game_Physics_Engine_Development_With_CDROM_) book by Ian Millington.
