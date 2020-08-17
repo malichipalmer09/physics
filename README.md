@@ -13,7 +13,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ### [Noteworthy open source libraries for visual computing](https://github.com/roshanpoudyal/Visual-Computing-Markerless-Motion-Pose-Face-detection-tracking-and-3D-reconstruction#noteworthy-open-source-libraries-for-visual-computing).
 
 ## Getting started:
-* Get started with [Raylib](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library), which is a foundation library to build your own graphical application or game engine itself.
+* Get started with [Raylib](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library), which is a foundation library to build your own graphical application or game engine itself. Or, more well maintained and commercial grade C++ engine [G3D](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-any-graphical-application-with-the-g3d-).
 * You guessed it,
 * Start and finish with [Game Physics Engine Development](https://www.goodreads.com/book/show/1501484.Game_Physics_Engine_Development_With_CDROM_) book by Ian Millington.
 * [Accompanying source code for this book on github](https://github.com/idmillington/cyclone-physics).
